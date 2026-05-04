@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1777896060 source:c:\data\important\oop\b1\b7\c_matrix.cpp
+	"c_matrix.h"
+	<iomanip>
+
+1777895997 c:\data\important\oop\b1\b7\c_matrix.h
+	<iostream>
+	"c_vector.h"
+
+1777895697 c:\data\important\oop\b1\b7\c_vector.h
+	<iostream>
+
+1777895791 source:c:\data\important\oop\b1\b7\main.cpp
+	"c_matrix.h"
+
+1777894227 source:c:\data\important\oop\b1\b6\c_vector.cpp
+	"c_vector.h"
+
+1777895697 c:\data\important\oop\b1\b6\c_vector.h
+	<iostream>
+

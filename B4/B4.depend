@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1777890295 source:c:\data\important\oop\b1\b4\c_date.cpp
+	"c_date.h"
+
+1777890297 c:\data\important\oop\b1\b4\c_date.h
+	<iostream>
+	<cmath>
+
+1777891847 source:c:\data\important\oop\b1\b4\main.cpp
+	"c_date.h"
+	<iomanip>
+

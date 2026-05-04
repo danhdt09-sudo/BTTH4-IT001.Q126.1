@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1777892777 source:c:\data\important\oop\b1\b5\da_thuc.cpp
+	"da_thuc.h"
+	<cmath>
+
+1777892769 c:\data\important\oop\b1\b5\da_thuc.h
+	<iostream>
+
+1777892788 source:c:\data\important\oop\b1\b5\main.cpp
+	"da_thuc.h"
+

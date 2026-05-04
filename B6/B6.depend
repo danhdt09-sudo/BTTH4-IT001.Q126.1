@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1777894227 source:c:\data\important\oop\b1\b6\c_vector.cpp
+	"c_vector.h"
+
+1777894219 c:\data\important\oop\b1\b6\c_vector.h
+	<iostream>
+
+1777894238 source:c:\data\important\oop\b1\b6\main.cpp
+	"c_vector.h"
+

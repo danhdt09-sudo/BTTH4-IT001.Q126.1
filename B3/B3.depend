@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1777887064 source:c:\data\important\oop\b1\b3\c_time.cpp
+	"c_time.h"
+
+1777887049 c:\data\important\oop\b1\b3\c_time.h
+	<iostream>
+	<iomanip>
+
+1777888814 source:c:\data\important\oop\b1\b3\main.cpp
+	"c_time.h"
+	<thread>
+	<chrono>
+	<windows.h>
+

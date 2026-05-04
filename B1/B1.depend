@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1777882544 source:c:\data\important\oop\b1\b1\so_phuc.cpp
+	"so_phuc.h"
+
+1777882523 c:\data\important\oop\b1\b1\so_phuc.h
+	<iostream>
+
+1777882617 source:c:\data\important\oop\b1\b1\main.cpp
+	"so_phuc.h"
+

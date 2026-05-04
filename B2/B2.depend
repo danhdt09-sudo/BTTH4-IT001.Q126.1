@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1777885716 source:c:\data\important\oop\b1\b2\phan_so.cpp
+	"phan_so.h"
+
+1777885707 c:\data\important\oop\b1\b2\phan_so.h
+	<iostream>
+	<cmath>
+
+1777885781 source:c:\data\important\oop\b1\b2\main.cpp
+	"phan_so.h"
+
